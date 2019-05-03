@@ -10,6 +10,7 @@ Reading Log about a book, "Anomaly Detection and Change Detection"
     - [Table of contents](#table-of-contents)
     - [Introduction](#introduction)
     - [Chapter1: The basic way of thinking about Anomaly Detection and Change Detection](#chapter1-the-basic-way-of-thinking-about-anomaly-detection-and-change-detection)
+    - [Author](#author)
         - [a case of labeled data](#a-case-of-labeled-data)
         - [a case of unlabeled data](#a-case-of-unlabeled-data)
 
@@ -24,6 +25,11 @@ This book is explaining about practical technologies of anomaly detection and ch
 * The fundamental difference from the traditional way of thinking about AI is expressing the knowledges with not the words like a human but the words of probability.  
 
 * The most important point of anomaly detection and change detection based on statistical machine learning is how to learn probability distribution depend on a property of data and how to define the difference levels of anomaly and change.  
+
+## Author
+---
+* [Tsuyoshi Ide](http://ide-research.net/)
+* [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)
 
 ### a case of labeled data
 
